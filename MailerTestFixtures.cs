@@ -23,12 +23,12 @@ namespace Mocking
             var result = mailer.SendEmail(mockEmailClient.Object);
             #endregion
             Assert.IsTrue(result);
+
             #region Mock
             mockEmailClient.Verify(client => client.SendEmail(It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>()), Times.Once);
             #endregion
 
             #region Spy     
-            //Spy
             // mockEmailClient.Verify(client => client.SendEmail(It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>()), Times.Exactly(2));
             #endregion
 
