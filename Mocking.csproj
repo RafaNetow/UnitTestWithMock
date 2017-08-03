@@ -63,6 +63,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DefaultMailer.cs" />
+    <Compile Include="IMailClient.cs" />
+    <Compile Include="IMailer.cs" />
     <Compile Include="MailerTestFixtures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
