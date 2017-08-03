@@ -1,11 +1,6 @@
 c:\users\sequeirios\documents\visual studio 2015\Projects\Mocking\Mocking\bin\Debug\Mocking.exe.config
 C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\Mocking.exe
 C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\Mocking.pdb
-C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\Castle.Core.dll
-C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\FluentAssertions.Core.dll
-C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\FluentAssertions.dll
-C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\Moq.dll
-C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\nunit.framework.dll
 C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\Castle.Core.xml
 C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\FluentAssertions.pdb
 C:\Users\Sequeirios\Documents\Visual Studio 2015\Projects\Mocking\Mocking\bin\Debug\FluentAssertions.xml
